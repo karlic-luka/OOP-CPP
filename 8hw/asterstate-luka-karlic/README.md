@@ -1,5 +1,5 @@
 # Asteroids sa _stanjima_
-
+## Moju (ne profesorovu) finalnu verziju možete vidjeti na sljedećem linku: https://drive.google.com/drive/folders/1k11n0lCXBiBrUNWgUu0dNxlt_DsQkq4K?usp=sharing
 U ovom je zadatku potrebno doraditi _Asteroids_ igru dodavanjem
 pozdravnog ekrana i ekrana za prikaz rezultata i nastavak igre.
 
