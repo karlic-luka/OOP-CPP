@@ -1,0 +1,45 @@
+= Programiranje u jeziku C++
+
+
+
+== Klase  i apstraktni tipovi podataka
+
+Klasa u C++-u je element jezika kojim se implementiraju korisnički tipovi podataka.
+U sljedećim sekcijama opisujemo kako se klasa konstruira i koristi. Pri tome klasu promatramo  
+izoliranu od ostalih klasa kako bismo detaljno opisali njeno funkcioniranje. Kasnije ćemo 
+se vratiti  važnom pitanju međudjelovanja različitih klasa.  
+
+
+
+== Objektno orijentirano programiranje
+
+
+
+
+
+
+
+*Objektno orijentirano programiranje* je danas dominantna tehnika programiranja koja je  na tom  mjestu u
+najvećoj mjeri zamijenila _proceduralno programiranje._ Za razumijevanje objektne tehnike  potrebno je 
+razjasniti motivaciju da se pronađe bolja tehnika od proceduralnog programiranja. 
+
+
+
+Uobičajeno je da se složeni programski zadaci razlažu na niz jednostavnijih zadataka koje je moguće 
+kodirati neovisno jedan o drugom i zatim se cijeli program realizira pomoću potprograma 
+(procedura) na koje je razložen. To je prirodna tehnika kojom bismo svaku složenu 
+zadaću sveli na rješavanje niza jednostavnijih zadaća. Pri tome razlaganje na posve neovisne cjeline 
+često nije moguće pa stoga potprogrami, koje ćemo zvati procedure, moraju međusobno komunicirati,
+izmjenjivati podatke, biti pozvani u određenom redosljedu i slično. Programski jezik koji se koristi
+u implementaciji mora nuditi element jezika za implementaciju procedure. U proceduralnim jezicima kao
+što je C taj je element funkcija; svaka procedura odgovara jednom funkcijskom pozivu. 
+
+
+
+
+Uspješni programi doživljavaju stalne modifikacije zbog novih potreba i zahtjeva  korisnika. Modifikacije
+su prisutne i pri inicijalnoj konstrukciji programa jer se zahtjevi često mijenjaju u fazi analize 
+programskog zadatka. Stoga je ključna kvaliteta programa lakoća kojom se modificira. Programi koje je teško 
+mijenjati  obično imaju kratak vijek trajanja. Korisnici ih napuštaju i traže druge aplikacije kada više ne mogu odgovoriti
+njihovim novim potrebama. 
+
